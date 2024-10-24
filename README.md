@@ -1,5 +1,7 @@
-# Nombres:* Bryan Diaz 
-          * Dalton Flores
+# Nombres: 
+* Bryan Diaz
+* Dalton Flores
+* Diego Espinosa        
 
 # Taller3
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
